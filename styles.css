@@ -47,7 +47,7 @@
     margin: 20px 10px;
 }
 
-.carrosel{
+.carrossel{
     background-image: url(assets/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -55,15 +55,21 @@
     margin-top: 50px;
 }
 
-.carrosel > span{
-    display: flex;
-    color: #FFFFFF;
-    font-family: 'Inter';
+.text-carrossel > span{
     font-size: 24px;
-    height: 400px;
 }
 
-.carrosel > h4{
-    c
+.text-carrossel > h4{
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.text-carrossel{
+    width: 400px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    height: 400px;
+    padding-top: 130px;
+    margin-left: 350px;
 }
 
