@@ -1,0 +1,32 @@
+@media (max-width: 800px)
+{
+    .input-container > input{
+        width: 170px;
+    }
+    #img-1{
+        width: 142px;
+        height: 40px;
+        margin: 10px;
+    }
+}
+
+@media (min-width: 800px) and (max-width: 1200px)
+{
+    .input-container > input{
+        width: 300px;
+        
+    }
+    #img-1{
+        width: 213px;
+        height: 60px;
+       
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px)
+{
+    .input-container > input{
+        width: 500px;
+    }
+
+}
