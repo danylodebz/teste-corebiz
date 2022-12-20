@@ -8,6 +8,22 @@
         height: 40px;
         margin: 10px;
     }
+
+    .text-carrossel{
+        margin-left: 150px;
+    }
+
+    .carrossel{
+        background-image: url(assets/mobileF.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        margin-top: 50px;
+        
+    }
+
+    
+    
 }
 
 @media (min-width: 800px) and (max-width: 1200px)
@@ -19,7 +35,9 @@
     #img-1{
         width: 213px;
         height: 60px;
-       
+    }
+    .text-carrossel{
+        margin-left: 120px;
     }
 }
 
@@ -27,6 +45,9 @@
 {
     .input-container > input{
         width: 500px;
+    }
+    .text-carrossel{
+        margin-left: 200px;
     }
 
 }
