@@ -4,7 +4,7 @@
             "productId": 1,
             "productName": "SAPATO FLOATER PRETO",
             "stars": 1,
-            "imageUrl": "https://corebiz-test.herokuapp.com/images/product-1.png",
+            "imageUrl": "https://anatomicgel.vteximg.com.br/arquivos/ids/203029-650-650/https---s3-sa-east-1.amazonaws.com-softvar-MelhorDoSapato-2001582-img_original-sapato-anatomicgel-7859-floater-preto-01.jpg?v=637988548506100000",
             "listPrice": null,
             "price": 25990,
             "installments": [
@@ -18,7 +18,7 @@
             "productId": 2,
             "productName": "SANDÁLIA LINHO BROWN",
             "stars": 4,
-            "imageUrl": "https://corebiz-test.herokuapp.com/images/product-2.png",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8rGlC5FJ8Ut6LGsvw-WTfeutbNSY4XUdslBZ2C6lSAKuCz84X7sgdE39cyyxKPE4wjs&usqp=CAU",
             "listPrice": 29900,
             "price": 19900,
             "installments": [
@@ -32,7 +32,7 @@
             "productId": 3,
             "productName": "BOTA MUSTANG PRETO",
             "stars": 2,
-            "imageUrl": "https://corebiz-test.herokuapp.com/images/product-3.png",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIC2DS7tSLNG9t2RI53GZfQSAw1QqZFxX9JXbrM6pntBG2ijZ8XdLp-oal2t1rXvY3HZM&usqp=CAU",
             "listPrice": 32900,
             "price": 29900,
             "installments": [
@@ -46,7 +46,7 @@
             "productId": 4,
             "productName": "CINTO SEMICROMO PRETO 40MM",
             "stars": 3,
-            "imageUrl": "https://corebiz-test.herokuapp.com/images/product-4.png",
+            "imageUrl": "data:image/jpeg;base64,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",
             "listPrice": null,
             "price": 7990,
             "installments": []
