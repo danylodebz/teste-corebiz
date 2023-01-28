@@ -34,8 +34,9 @@ async function pegarProdutos() {
     <button class="botao-comprar">COMPRAR</button>
   </div>`;
   });
-  console.log(produtos);
+
   document.querySelector(".container-produtos").innerHTML = produtos
 }
 
 pegarProdutos();
+
